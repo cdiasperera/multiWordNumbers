@@ -1,4 +1,4 @@
-# multiWordNumbers
+# Multi-Word Numbers in LC-3
 
 The code/report for a project I did in the second half of my first semester, at the University of Groningen.
 
